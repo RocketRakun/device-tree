@@ -214,4 +214,4 @@ TWRP_INCLUDE_LOGCAT := true
 TARGET_USES_LOGD := true
 
 # Maintainer
-TW_DEVICE_VERSION := RocketRakun
+TW_DEVICE_VERSION := X695C-RocketRakun
